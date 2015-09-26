@@ -7,7 +7,7 @@
     "arpjs": "^1.0.0",
     "node-uuid": "^1.4.2",
     "request": "^2.51.0",
-    "tough-cookie-filestore": "0.0.1",
+    "tough-cookie-filestore": "Easen/tough-cookie-filestore#43136c33f298ac58f3927d9567ffbb2764b653f6",
     "wake_on_lan": "0.0.4"
   },
   "devDependencies": {},
